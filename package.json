@@ -1,0 +1,31 @@
+{
+  "name": "jstrace-or-noop",
+  "version": "1.0.0",
+  "description": "depent jstrace or noop",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+
+  ],
+  "author": {
+    "name": "dead-horse",
+    "email": "dead_horse@qq.com",
+    "url": "http://deadhorse.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:node-modules/jstrace-or-noop"
+  },
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "autod": "2"
+  },
+  "engine": {
+    "node": ">=0.12"
+  }
+}
